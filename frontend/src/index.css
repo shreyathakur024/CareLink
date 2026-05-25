@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+
+@theme {
+ 
+  --color-primary:  #4F8BB0 ;
+  
+  --color-primary-light: #84F2FE;
+
+ 
+  --color-tertiary:  #01AABC ;
+  
+  --color-accent: #FF9933 ;
+  --color-accent-hover: #e68a00;
+
+ 
+  --color-secondary-light: #A1C7E0;
+
+  /* Text Colors */
+  --color-text-primary: #0F172A;
+  --color-text-secondary: #475569;
+  --color-background-card: #ffffff;
+}
+@layer utilities {
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .no-scrollbar::-webkit-scrollbar {
+      display: none;
+  }
+
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .no-scrollbar {
+      -ms-overflow-style: none;  /* IE and Edge */
+      scrollbar-width: none;  /* Firefox */
+  }
+}
+/* Override react-datepicker default blue with Care Connect Emerald */
+.react-datepicker__day--selected, 
+.react-datepicker__day--in-selecting-range, 
+.react-datepicker__day--in-range, 
+.react-datepicker__month-text--selected, 
+.react-datepicker__month-text--in-selecting-range, 
+.react-datepicker__month-text--in-range, 
+.react-datepicker__quarter-text--selected, 
+.react-datepicker__quarter-text--in-selecting-range, 
+.react-datepicker__quarter-text--in-range, 
+.react-datepicker__year-text--selected, 
+.react-datepicker__year-text--in-selecting-range, 
+.react-datepicker__year-text--in-range,
+.react-datepicker__day--keyboard-selected {
+  background-color: #FF9933 !important; /* Tailwind emerald-600 */
+  color: #84F2FE!important;
+}
+
+.react-datepicker__day--selected:hover, 
+.react-datepicker__day--keyboard-selected:hover {
+  background-color:#e68a00 !important; /* Tailwind emerald-700 */
+}
+.react-datepicker__header select {
+  background-color: white;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  padding: 2px 4px;
+  color: #475569;
+  outline: none;
+}
