@@ -1,6 +1,6 @@
-# CareConnect - Healthcare Website
+# CareLink - Healthcare Website
 
-CareConnect is a modern, responsive healthcare platform that allows users to find doctors, book appointments, and manage their health profiles. The platform aims to bridge the gap between patients and healthcare providers by offering seamless scheduling and user-friendly features.
+CareLink is a modern, responsive healthcare platform that allows users to find doctors, book appointments, and manage their health profiles. The platform aims to bridge the gap between patients and healthcare providers by offering seamless scheduling and user-friendly features.
 
 ## 🚀 Features
 
