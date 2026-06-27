@@ -3,8 +3,8 @@ import Footer from '../components/Footer'
 
 // --- 1. DUMMY DATA ---
 const contactDetails = {
-  generalEmail: "support@careconnect.in",
-  careersEmail: "careers@careconnect.in",
+  generalEmail: "support@carelink.in",
+  careersEmail: "careers@carelink.in",
   tollFree: "1800-123-4567",
   workingHours: "Mon - Sat: 09:00 AM to 08:00 PM (IST)",
 }
@@ -13,7 +13,7 @@ const offices = [
   {
     id: 1,
     city: "Mumbai (Headquarters)",
-    address: "101, CareConnect Tower, Bandra Kurla Complex (BKC), Mumbai, Maharashtra 400051",
+    address: "101, CareLink Tower, Bandra Kurla Complex (BKC), Mumbai, Maharashtra 400051",
     phone: "+91 22 2345 6789"
   },
   {

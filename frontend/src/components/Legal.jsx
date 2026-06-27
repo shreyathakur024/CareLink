@@ -37,7 +37,7 @@ const Legal = () => {
         <div className="min-h-screen bg-gray-50 flex flex-col">
             {/* Top Navbar */}
             <div className="flex sticky top-0 items-center justify-center px-4 md:px-8 border-b border-accent py-3 bg-cyan-950 transition-all duration-300 z-40">
-                 <img className="h-10 w-auto object-contain" src="../src/assets/logo2.png" alt="CareConnect logo" />
+                 <img className="h-10 w-auto object-contain" src="../src/assets/logo2.png" alt="CareLink logo" />
                  <span className="font-extrabold text-xl tracking-tight flex">
                     <span className="text-cyan-100">Care</span>
                     <span className="text-accent">Connect</span>

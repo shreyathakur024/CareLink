@@ -27,10 +27,10 @@ const Navbar = () => {
 
           {/* Logo */}
           <NavLink to="/" className="flex items-center gap-3 shrink-0">
-            <img className="h-10 w-auto object-contain" src="../src/assets/logo2.png" alt="CareConnect logo" />
+            <img className="h-10 w-auto object-contain" src="../src/assets/logo2.png" alt="CareLink logo" />
             <span className="font-extrabold text-xl tracking-tight flex">
               <span className="text-cyan-100">Care</span>
-              <span className="text-accent">Connect</span>
+              <span className="text-accent">Link</span>
             </span>
           </NavLink>
 
@@ -110,7 +110,7 @@ const Navbar = () => {
       {/* --- MOBILE LAYOUT --- */}
       <div className="lg:hidden flex items-center justify-between bg-cyan-950 px-6 py-4 shadow-lg">
         <NavLink to="/" className="flex items-center gap-2">
-          <img className="h-8 w-auto object-contain" src="../src/assets/logo2.png" alt="CareConnect logo" />
+          <img className="h-8 w-auto object-contain" src="../src/assets/logo2.png" alt="CareLink logo" />
           <span className="font-extrabold text-xl tracking-tight flex">
             <span className="text-cyan-100">Care</span>
             <span className="text-accent">Connect</span>

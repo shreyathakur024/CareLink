@@ -16,7 +16,7 @@ const values = [
   },
   {
     title: "Verified Excellence",
-    description: "Every doctor on CareConnect undergoes a rigorous multi-step verification process to ensure top-tier medical expertise.",
+    description: "Every doctor on CareLink undergoes a rigorous multi-step verification process to ensure top-tier medical expertise.",
     icon: <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
   },
   {
@@ -64,7 +64,7 @@ const About = () => {
 
         {/* Logo */}
         {/* <div className="flex items-center justify-center gap-3 mb-10">
-          <img className="h-10 w-auto object-contain" src="../src/assets/logo2.png" alt="CareConnect" />
+          <img className="h-10 w-auto object-contain" src="../src/assets/logo2.png" alt="CareLink" />
           <span className="font-extrabold text-xl tracking-tight flex">
             <span className="text-violet-100">Care</span>
             <span className="text-amber-500">Connect</span>
@@ -81,7 +81,7 @@ const About = () => {
             <span className="text-cyan-400">Accessible to All</span>
           </h1>
           <p className="text-cyan-200 text-base md:text-lg leading-relaxed max-w-2xl mx-auto font-light">
-            CareConnect connects patients with top-tier specialists — reducing wait times and ensuring you get the care you deserve, exactly when you need it.
+            CareLink connects patients with top-tier specialists — reducing wait times and ensuring you get the care you deserve, exactly when you need it.
           </p>
         </div>
       </section>
@@ -136,7 +136,7 @@ const About = () => {
               In 2021, we noticed a critical flaw in the healthcare system: finding the right doctor and booking an appointment was needlessly complicated, leading to delayed treatments and frustrated patients.
             </p>
             <p className="text-gray-500 leading-relaxed text-base">
-              We built CareConnect to strip away the complexity. By bringing thousands of verified doctors onto a single, intuitive platform, we've transformed the healthcare journey from a stressful chore into a seamless experience. Your health shouldn't wait on hold.
+              We built CareLink to strip away the complexity. By bringing thousands of verified doctors onto a single, intuitive platform, we've transformed the healthcare journey from a stressful chore into a seamless experience. Your health shouldn't wait on hold.
             </p>
             <div className="flex items-center gap-4 pt-2">
               <div className="flex -space-x-3">
@@ -160,7 +160,7 @@ const About = () => {
               <div className="h-px w-12 bg-cyan-300 rounded-full" />
             </div>
             <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-3">What Drives Us</h2>
-            <p className="text-gray-400 max-w-xl mx-auto text-sm">The core principles that guide every decision we make at CareConnect.</p>
+            <p className="text-gray-400 max-w-xl mx-auto text-sm">The core principles that guide every decision we make at CareLink.</p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">

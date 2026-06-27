@@ -101,7 +101,7 @@ const Appointment = () => {
            <img src={logo} alt="logo" />
         </div> */}
         <div>
-          {/* <p className="text-3xl font-bold text-accent leading-none">Care Connect</p> */}
+          {/* <p className="text-3xl font-bold text-accent leading-none">CareLink</p> */}
           <p className="text-md text-5xl font-bold text-text-secondary mt-0.3">Book your appointment</p>
         </div>
       </div>

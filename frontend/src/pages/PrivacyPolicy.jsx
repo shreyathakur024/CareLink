@@ -4,13 +4,13 @@ import '../assets/LegalPages.css';
 const PrivacyPolicy = () => {
   return (
     <div className="legal-container">
-      <h1 className="legal-title">Privacy Policy for Care Connect</h1>
+      <h1 className="legal-title">Privacy Policy for CareLink</h1>
       <p className="legal-last-updated"><strong className="legal-strong">Last Updated:</strong> March 3, 2026</p>
 
-      <p className="legal-paragraph">Welcome to Care Connect. We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our doctor appointment scheduling services.</p>
+      <p className="legal-paragraph">Welcome to CareLink. We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our doctor appointment scheduling services.</p>
 
       <h2 className="legal-heading">1. Information We Collect</h2>
-      <p className="legal-paragraph">We collect personal information that you voluntarily provide to us when registering on Care Connect, expressing an interest in obtaining information about doctors, or booking an appointment. This may include:</p>
+      <p className="legal-paragraph">We collect personal information that you voluntarily provide to us when registering on CareLink, expressing an interest in obtaining information about doctors, or booking an appointment. This may include:</p>
       <ul className="legal-list">
         <li><strong className="legal-strong">Personal Identifiers:</strong> Name, date of birth, gender, email address, phone number, and mailing address.</li>
         <li><strong className="legal-strong">Health Information:</strong> Reason for visit, symptoms, past medical history, insurance details, and any notes you provide for the doctor.</li>
@@ -19,7 +19,7 @@ const PrivacyPolicy = () => {
       </ul>
 
       <h2 className="legal-heading">2. How We Use Your Information</h2>
-      <p className="legal-paragraph">We use personal information collected via Care Connect for a variety of business purposes described below:</p>
+      <p className="legal-paragraph">We use personal information collected via CareLink for a variety of business purposes described below:</p>
       <ul className="legal-list">
         <li><strong className="legal-strong">To Facilitate Appointments:</strong> Sending your details to the respective doctors or clinics to secure your booking.</li>
         <li><strong className="legal-strong">Communication:</strong> Sending appointment confirmations, reminders, cancellations, and updates via email or SMS.</li>
@@ -51,10 +51,10 @@ const PrivacyPolicy = () => {
       <p className="legal-paragraph">We may update this privacy policy from time to time. The updated version will be indicated by an updated "Last Updated" date and the updated version will be effective as soon as it is accessible. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.</p>
 
       <h2 className="legal-heading">7. Contact Us</h2>
-      <p className="legal-paragraph">If you have questions or comments about this notice, you may email us at <strong className="legal-strong">privacy@careconnect.com</strong> or contact us by post at:</p>
+      <p className="legal-paragraph">If you have questions or comments about this notice, you may email us at <strong className="legal-strong">privacy@CareLink.com</strong> or contact us by post at:</p>
       <address className="legal-address">
-        Care Connect Inc.<br />
-        101, CareConnect Tower,<br />
+        CareLink Inc.<br />
+        101, CareLink Tower,<br />
         Bandra Kurla Complex (BKC),<br />
         Mumbai, Maharashtra 400051,<br />
         India

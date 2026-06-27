@@ -33,7 +33,7 @@ const Footer = () => {
             <img
               className='w-36 object-contain'
               src={logo}
-              alt="CareConnect Logo"
+              alt="CareLink Logo"
             />
             <p className='text-cyan-100 text-sm leading-relaxed'>
               Providing quality healthcare solutions for a healthier, better life — every step of the way.
@@ -89,7 +89,7 @@ const Footer = () => {
                     <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
                   </svg>
                 </div>
-                <p className='text-cyan-200 text-sm leading-relaxed'>101, CareConnect Tower,<br />Bandra Kurla Complex (BKC), Mumbai, Maharashtra 400051</p>
+                <p className='text-cyan-200 text-sm leading-relaxed'>101, CareLink Tower,<br />Bandra Kurla Complex (BKC), Mumbai, Maharashtra 400051</p>
               </li>
               <li className='flex items-center gap-3'>
                 <div className='w-8 h-8 rounded-full bg-cyan-800 flex items-center justify-center shrink-0'>
@@ -109,8 +109,8 @@ const Footer = () => {
                   </svg>
                 </div>
                 <div>
-                  <p className='text-cyan-200 text-sm'>support@careconnect.com</p>
-                  <p className='text-cyan-200 text-sm'>info@careconnect.com</p>
+                  <p className='text-cyan-200 text-sm'>support@CareLink.com</p>
+                  <p className='text-cyan-200 text-sm'>info@CareLink.com</p>
                 </div>
               </li>
             </ul>
@@ -142,7 +142,7 @@ const Footer = () => {
 
         {/* Bottom Bar */}
         <div className='border-t border-cyan-800 mt-12 pt-6 flex flex-col md:flex-row items-center justify-between gap-3'>
-          <p className='text-cyan-400 text-sm'>© 2026 CareConnect. All rights reserved.</p>
+          <p className='text-cyan-400 text-sm'>© 2026 CareLink. All rights reserved.</p>
           <div className='flex gap-6'>
             {quickLinks2.map(item => (
               <Link  className='text-cyan-400 text-sm'

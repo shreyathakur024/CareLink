@@ -27,7 +27,7 @@ app.use("/api/appointments", appointmentRoute);
 app.use("/api/users", userRouter);
 
 app.get("/", (req, res) => {
-    res.send("Care Connect API is running");
+    res.send("CareLink API is running");
 });
 
 // Database Connection Test

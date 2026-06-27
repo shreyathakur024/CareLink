@@ -33,7 +33,7 @@
       scrollbar-width: none;  /* Firefox */
   }
 }
-/* Override react-datepicker default blue with Care Connect Emerald */
+/* Override react-datepicker default blue with CareLink Emerald */
 .react-datepicker__day--selected, 
 .react-datepicker__day--in-selecting-range, 
 .react-datepicker__day--in-range, 

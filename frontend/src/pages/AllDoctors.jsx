@@ -66,7 +66,7 @@ const AllDoctors = () => {
 
         {/* Logo
         <div className="flex items-center justify-center gap-3 mb-8">
-          <img className="h-10 w-auto object-contain" src="../src/assets/logo2.png" alt="CareConnect" />
+          <img className="h-10 w-auto object-contain" src="../src/assets/logo2.png" alt="CareLink" />
           <span className="font-extrabold text-xl tracking-tight flex">
             <span className="text-violet-100">Care</span>
             <span className="text-amber-500">Connect</span>
